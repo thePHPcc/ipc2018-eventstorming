@@ -1,0 +1,7 @@
+POST http://localhost:8080/defineBillingAddress
+Content-Type: application/x-www-form-urlencoded
+Cookie: userid=71cd57ff-68ab-4e1e-bb87-ea044389d77d
+
+name=A%20Name&company=A%20Company&street=A%20Street&zip=12345&city=A%20City&country=A%20Country
+
+###
